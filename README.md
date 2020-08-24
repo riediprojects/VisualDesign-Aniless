@@ -2,10 +2,10 @@
 
 ## Single Screens
 <div>Begrüssung</div>
-<img src="./StartScreen.png" alt="alt text" width="40%" height="40%">
+<img src="./StartScreen.png" alt="alt text" width="30%" height="30%">
 
-Tierverbrauch:
-![Tierverbrauch](Tierverbrauch.png)
+<div>Tierverbrauch</div>
+<img src="./Tierverbrauch.png" alt="alt text" width="30%" height="30%">
 
 Übersicht Verbrauch
 ![Daten](Daten.png)
