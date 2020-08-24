@@ -1,8 +1,8 @@
 # App_Design-Aniless
 
 ## Single Screens
-Begrüssung:
-![StarScreen](StartScreen.png)
+<div>Begrüssung</div>
+<img src="./StartScreen.png" alt="alt text" width="40%" height="40%">
 
 Tierverbrauch:
 ![Tierverbrauch](Tierverbrauch.png)
