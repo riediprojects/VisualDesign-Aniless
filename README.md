@@ -8,14 +8,14 @@ Die Daten werden anschliessend in verschiedenen Challanges visuallisiert. Die Ch
 <img src="./Develop2.png" alt="alt text" width="60%" height="60%">
 
 
-## Single Screens
-<div>Begrüssung</div>
+## Screenshots
+<div>Startbildschirm</div>
 <img src="./StartScreen.png" alt="alt text" width="30%" height="30%">
 
-<div>Tierverbrauch</div>
+<div>Tierverbrauch Challenge</div>
 <img src="./Tierverbrauch.png" alt="alt text" width="30%" height="30%">
 
-<div>Übersicht Verbrauch</div>
+<div>Verbrauch Übersicht</div>
 <img src="./Daten.png" alt="alt text" width="30%" height="30%">
 
 <div>Neues Produkt hinzufügen</div>
