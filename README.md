@@ -1,4 +1,4 @@
-# App Design Aniless
+# App Visual Design: Aniless
 
 ## Idee und Ziel
 Aniless ist eine mobile App, mit dessen Hilfe sich der Konsum tierischer Produkte überwachen lässt. Dazu kann der persönliche Verbrauch täglich auf einfache Weise in der App getrackt werden. 
@@ -6,7 +6,6 @@ Die Daten werden anschliessend in verschiedenen Challanges visuallisiert. Die Ch
 
 <img src="./Develop1.png" alt="alt text" width="60%" height="60%">
 <img src="./Develop2.png" alt="alt text" width="60%" height="60%">
-
 
 ## Screenshots
 <div>Startbildschirm</div>
